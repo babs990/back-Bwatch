@@ -1,0 +1,13 @@
+{
+    "marques":[
+        {
+            "id": 1,
+            "nom": "Hublot",
+            "description": "Hublot est une maison de haute horlogerie fondée en Suisse en 1980 dirigée depuis 2012 par Ricardo Guadalupe.",
+            "image": "hublotMarque.svg",
+            "creation": "2024-08-16T00:00:00Z",
+            "etoiles": 5,
+            "produits":[]
+        }
+    ]
+}
