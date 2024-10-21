@@ -5,8 +5,199 @@
             "nom": "Hublot",
             "description": "Hublot est une maison de haute horlogerie fondée en Suisse en 1980 dirigée depuis 2012 par Ricardo Guadalupe.",
             "image": "hublotMarque.svg",
-            "creation": "2024-08-16T00:00:00Z",
+            "creation": "15.10.2024",
             "etoiles": 5,
+            "type": "Homme",
+            "produits":[]
+        },
+        {
+            "id": 2,
+            "nom": "Maserati",
+            "description": "Les montres Maserati sont produites en collaboration avec Morellato, une entreprise italienne qui produit des bijoux et des montres-bracelets depuis les années 1930. La première ligne de montres Maserati a été lancée en 2012 et a connu un succès immédiat.",
+            "image": "maseratiMarque.svg",
+            "creation": "15.10.2024",
+            "etoiles": 4,
+            "type": "Homme",
+            "produits":[]
+        },
+        {
+            "id": 3,
+            "nom": "Boss",
+            "description": "Les montres BOSS sont très glamour et pourtant simples. Qu'elles soient classiques ou plus modernes et sportives, les montres BOSS sont aussi multicouches que les personnes qui les portent.",
+            "image": "bossMarque.svg",
+            "creation": "15.10.2024",
+            "etoiles": 4,
+            "type": "Homme",
+            "produits":[]
+        },
+        {
+            "id": 4,
+            "nom": "Adidas",
+            "description": "En partenariat avec Timex Group, l’un des plus grands fabricants de montres au monde, adidas Originals élargit son univers avec une collection de montres classiques et authentiques qui célèbre l’expression de soi.",
+            "image": "adidasMarque.svg",
+            "creation": "15.10.2024",
+            "etoiles": 4,
+            "type": "Homme",
+            "produits":[]
+        },
+        {
+            "id": 5,
+            "nom": "Lacoste",
+            "description": "Lacoste jouit d’un héritage unique sur le marché de la mode sportive. Sa collection de montres étanches est le fruit d’une conception minutieuse qui accorde une grande importance aux fonctions et aux détails.",
+            "image": "lacosteMarque.svg",
+            "creation": "15.10.2024",
+            "etoiles": 5,
+            "type": "Homme",
+            "produits":[]
+        },
+        {
+            "id": 6,
+            "nom": "Rolex",
+            "description": "Rolex est une manufacture suisse de montres de luxe, fondée en 1905 par Hans Wilsdorf. Son modèle phare Oyster (« huître » en anglais) existe depuis 1926.",
+            "image": "rolexMarque.svg",
+            "creation": "15.10.2024",
+            "etoiles": 5,
+            "type": "Homme",
+            "produits":[]
+        },
+        {
+            "id": 7,
+            "nom": "Tissot",
+            "description": "Tissot est une entreprise d'horlogerie suisse de luxe appartenant au Swatch Group, fondée en 1853 au Locle par Charles-Félicien et Charles-Émile Tissot.",
+            "image": "tissotMarque.svg",
+            "creation": "15.10.2024",
+            "etoiles": 5,
+            "type": "Homme",
+            "produits":[]
+        },
+        {
+            "id": 8,
+            "nom": "Casio",
+            "description": "Les montres Casio offrent une combinaison parfaite de fiabilité et de style, faisant d'elles un choix judicieux pour ceux qui recherchent un modèle fonctionnel et esthétique sans vider leur portefeuille.",
+            "image": "casioMarque.svg",
+            "creation": "15.10.2024",
+            "etoiles": 2,
+            "type": "Homme",
+            "produits":[]
+        },
+        {
+            "id": 8,
+            "nom": "Casio",
+            "description": "Les montres Casio offrent une combinaison parfaite de fiabilité et de style, faisant d'elles un choix judicieux pour ceux qui recherchent un modèle fonctionnel et esthétique sans vider leur portefeuille.",
+            "image": "casioMarque.svg",
+            "creation": "15.10.2024",
+            "etoiles": 2,
+            "type": "Homme",
+            "produits":[]
+        },
+        {
+            "id": 9,
+            "nom": "Lotus",
+            "description": "Lotus est une marque espagnole de montres et de bijoux, fondée en 1980. Elle est reconnue pour son design contemporain, sa qualité de fabrication et son rapport qualité-prix",
+            "image": "lotusMarque.svg",
+            "creation": "15.10.2024",
+            "etoiles": 5,
+            "type": "Homme",
+            "produits":[]
+        },
+        {
+            "id": 10,
+            "nom": "La Veritable",
+            "description": "Plus qu’une simple montre, c’est un bijou d’exception entièrement fabriqué par des artisans horlogers français qui ont à cœur des produits à la finition soignée et d’une très grande valeur qualitative. ",
+            "image": "veritableMarque.svg",
+            "creation": "21.10.2024",
+            "etoiles": 2,
+            "type": "Homme",
+            "produits":[]
+        },
+        {
+            "id": 11,
+            "nom": "Gustave & Cie ",
+            "description": "GUSTAVE & cie est une maison horlogère française. Elle propose une vision plus zen du temps avec ses montres Mono-Aiguille disponibles en 24H ou en 12H.",
+            "image": "gustaveMarque.svg",
+            "creation": "21.10.2024",
+            "etoiles": 2,
+            "type": "Homme",
+            "produits":[]
+        },
+        {
+            "id": 12,
+            "nom": "Curren",
+            "description": "Les montres Curren sont de véritable petit bijoux, aux meilleurs prix, qui complèteront avec d'autres accessoires, votre tenue.",
+            "image": "currenMarque.svg",
+            "creation": "15.10.2024",
+            "etoiles": 2,
+            "type": "Femme",
+            "produits":[]
+        },
+        {
+            "id": 13,
+            "nom": "Calvin Klein",
+            "description": "Les montres Calvin Klein sont une marque de luxe qui conçoit et fabrique des montres de luxe. La marque fabrique des montres sous l'égide du Swatch Group.",
+            "image": "calvinMarque.svg",
+            "creation": "15.10.2024",
+            "etoiles": 2,
+            "type": "Femme",
+            "produits":[]
+        },
+        {
+            "id": 14,
+            "nom": "Chanel",
+            "description": "CHANEL. La montre PREMIÈRE, aux proportions d’une éternelle féminité. MADEMOISELLE PRIVÉ, chef d’œuvre de raffinement né des Métiers d’Art. La montre BOY·FRIEND, dont la ligne sobre rejoue les codes du masculin-féminin.",
+            "image": "calvinMarque.svg",
+            "creation": "15.10.2024",
+            "etoiles": 4,
+            "type": "Femme",
+            "produits":[]
+        },
+        {
+            "id": 15,
+            "nom": "Tommy Hilfiger",
+            "description": "Tommy Hilfiger est l'une des plus grandes marques de créateurs de style de vie au monde et est reconnue internationalement pour célébrer l'essence du style cool américain classique, avec des designs preppy avec une touche d'originalité.",
+            "image": "tommyMarque.svg",
+            "creation": "15.10.2024",
+            "etoiles": 2,
+            "type": "Femme",
+            "produits":[]
+        },
+        {
+            "id": 16,
+            "nom": "Cluse",
+            "description": "CLUSE est une marque de montres modernes et tendances, qui se développe rapidement dans le monde entier.Les montres Cluse sont appréciées pour leur design minimaliste et leur élégance.",
+            "image": "cluseMarque.svg",
+            "creation": "15.10.2024",
+            "etoiles": 4,
+            "type": "Femme",
+            "produits":[]
+        },
+        {
+            "id": 17,
+            "nom": "Audemars Piguet",
+            "description": "Audemars Piguet, fondée en 1875 par Jules-Louis Audemars et Edward-Auguste Piguet, est une manufacture d'horlogerie de luxe suisse installée au Brassus dans la vallée de Joux.",
+            "image": "audemarsMarque.svg",
+            "creation": "21.10.2024",
+            "etoiles": 5,
+            "type": "Femme",
+            "produits":[]
+        },
+        {
+            "id": 18,
+            "nom": "Versace",
+            "description": "Versace est une entreprise italienne de mode de luxe et un nom commercial fondé par Gianni Versace en 1978.",
+            "image": "versaceMarque.svg",
+            "creation": "21.10.2024",
+            "etoiles": 5,
+            "type": "Femme",
+            "produits":[]
+        },
+        {
+            "id": 19,
+            "nom": "Lige",
+            "description": "Les montres LIGE sont l'accessoire parfait pour toutes les occasions. Elles sont fabriquées à partir de matériaux de haute qualité et ont un design élégant qui fera tourner les têtes. ",
+            "image": "ligeMarque.svg",
+            "creation": "21.10.2024",
+            "etoiles": 2,
+            "type": "Femme",
             "produits":[]
         }
     ]
