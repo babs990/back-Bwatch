@@ -57,7 +57,53 @@
         "creation": "15.10.2024",
         "etoiles": 5,
         "type": "Homme",
-        "produits":[]
+        "produits":[
+            {
+                "numb": 1,
+                "name": "Datejust",
+                "description" : "Marque: Rolex Cadran: 41mm avec Chiffre Romain Modèle: Datejust 126334 Année: 2020 (Numéro de série fournis sur demande seulement)  Métal: Stainless Steel Vitre: Crystal de Saphir Boîte Rolex Neuve et Papiers & Certificat inclus Condition: Neuve",
+                "type": "Homme",
+                "prix": 10000,
+                "couleur": "diamant",
+                "img":"Datejust.webp"
+            },
+            {
+                "numb": 2,
+                "name": "Submariner",
+                "description" : "Les montres Rolex sont réalisées à partir des meilleurs matériaux et sont assemblées avec une minutieuse attention au détail. Chaque composant est conçu et produit selon les normes les plus rigoureuses. Diamètre 41 mm Entrecorne 21 mm Calibre Rolex 3230 (sans date) Rolex 3235 (date) Etanchéité 300 mètres Réserve de marche 70 heures Boitier Acier Oystersteel Cadran Noir/Bleu (version or jaune et or jaune/acier) Lunette Noir/Bleu/Vert",
+                "type": "Homme",
+                "prix": 600,
+                "couleur": "bleu",
+                "img":"Submariner.webp"
+            },
+            {
+                "numb": 3,
+                "name": "Dayton",
+                "description" : "Marque montre: ROLEX Modèle: Cosmograph Garantie d’origine, Mode d’emploi Lunette (matière):Céramique Boitier: Acier État : NEUF Dimensions du boîtier: 40 mm Mouvement: AUTOMAQUE/ VERRe:Saphir Qualité : Authentique VENDU AVEC FACTURE",
+                "type": "Homme",
+                "prix": 400,
+                "couleur": "bleu",
+                "img":"Dayton.webp"
+            },
+            {
+                "numb": 4,
+                "name": "Cosmograph",
+                "description" : "Marque: ROLEX Modèle: Cosmograph Daytona Garantie d’origine, Mode d’emploi Lunette (matière):Céramique Boitier: Acier État : NEUF Dimensions du boîtier: 40 mm Mouvement: Saphir Qualité : Authentique Cadran (couleur dominante): Noir, bleu, blanc Bracelet: Cuir, Acier et caoutchouc résistant au feu Boucle: Déployante simple",
+                "type": "Homme",
+                "prix": 500,
+                "couleur": "bleu",
+                "img":"Cosmograph.webp"
+            },
+            {
+                "numb": 5,
+                "name": "Subsub",
+                "description" : "Marque montre: ROLEX Modèle: DAYTONA Cosmograph Garantie d’origine, Mode d’emploi Lunette (matière):Céramique Boitier: Acier État : neuf Dimensions du boîtier: 40 mm Mouvement: AUTOMATIQUE; VERRE: Saphir Qualité : Authentique VENDU AVEC FACTURE Cadran (couleur dominante): Noir, bleu, blanc Bracelet: Cuir, Acier et caoutchouc résistant au feu Boucle: Déployante simple",
+                "type": "Homme",
+                "prix": 700,
+                "couleur": "argent",
+                "img":"Subsub.webp"
+            }
+        ]
     },
     {
         "id": 7,
@@ -67,7 +113,53 @@
         "creation": "15.10.2024",
         "etoiles": 5,
         "type": "Homme",
-        "produits":[]
+        "produits":[
+            {
+                "numb": 1,
+                "name": "Seastar 1000",
+                "description" : "Découvrez la nouvelle Tissot Seastar 1000 réf. T120.807.11.091.00 : une plongeuse emblématique qui allie style et fonctionnalité. Dans un tout nouveau format de boîtier, 40 mm, son cadran turquoise dégradé saisissant attire le regard, tandis que son mouvement automatique Powermatic 80 assure une précision absolue. Avec la taille de boîtier, cette montre allie élégance et confort.",
+                "type": "Homme",
+                "prix": 400,
+                "couleur": "argent",
+                "img":"Seastar 1000.webp"
+            },
+            {
+                "numb": 2,
+                "name": "Connect",
+                "description" : "Découvrez la fusion parfaite entre technologie de pointe et design raffiné avec la montre Tissot T-Touch Connect Sport Solar, réf. T153.420.47.051.04. Cette pièce révolutionnaire incarne l'innovation et l'élégance, redéfinissant les normes de l'horlogerie moderne. Dotée d'un écran tactile AMOLED intuitif, la Tissot T-Touch Connect Sport Solar offre une gamme de fonctionnalités intelligentes. De la navigation GPS à la météo en temps réel, cette montre connectée vous garde informé et connecté à tout moment, où que vous soyez.",
+                "type": "Homme",
+                "prix": 300,
+                "couleur": "noir",
+                "img":"Connect.webp"
+            },
+            {
+                "numb": 3,
+                "name": "T-Classic",
+                "description" : "Un look polyvalent, un prix très étudié, cette Tissot ne vous quittera plus",
+                "type": "Homme",
+                "prix": 400,
+                "couleur": "argent",
+                "img":"T-Classic.webp"
+            },
+            {
+                "numb": 4,
+                "name": "Quickster",
+                "description" : "La Quickster est la montre de référence pour les amateurs de sport ! Équipée d'un calibre à quartz chronographen elle garantit une parfaire fiabilité et une polyvalence optimale !",
+                "type": "Homme",
+                "prix": 350,
+                "couleur": "argent",
+                "img":"Quickster.webp"
+            },
+            {
+                "numb": 5,
+                "name": "T-Sport ",
+                "description" : "Doté d'un large boîtier en acier inoxydable de 45 mm, ce chronographe offre un design accrocheur qui ne manquera pas de faire tourner les têtes. Le cadran vert soleillé avec des accents blancs élégants crée un look intemporel qui se marie parfaitement avec n'importe quel style",
+                "type": "Homme",
+                "prix": 300,
+                "couleur": "marron",
+                "img":"T-Sport.webp"
+            }
+        ]
     },
     {
         "id": 8,
@@ -77,7 +169,53 @@
         "creation": "15.10.2024",
         "etoiles": 2,
         "type": "Homme",
-        "produits":[]
+        "produits":[
+            {
+                "numb": 1,
+                "name": "Silver Stainless",
+                "description" : "Présentation de la montre Casio LTP1302D-1A2, un mélange parfait de sophistication, de précision et de fonctionnalité. Conçue avec une touche d'élégance intemporelle, cette montre analogique témoigne de l'engagement de Casio envers la qualité et le style. Fabriquée avec un bracelet en acier inoxydable argenté brillant, cette montre n'est pas seulement une montre, mais une déclaration d'élégance et de classe. L'utilisation de matériaux de haute qualité garantit une durabilité et une brillance longue durée.",
+                "type": "Homme",
+                "prix": 400,
+                "couleur": "argent",
+                "img":"Silver Stainless.webp"
+            },
+            {
+                "numb": 2,
+                "name": "Edifice",
+                "description" : "Découvrez le mélange parfait de sophistication et de fonctionnalité avec le chronographe Casio Edifice en cuir marron EFR539L-5A. Ce garde-temps est conçu non seulement pour indiquer l'heure, mais aussi pour faire une déclaration. Lunette tridimensionnelle : la lunette remarquable ajoute de la profondeur et un attrait visuel dynamique, vous assurant de faire tourner les têtes partout où vous allez.",
+                "type": "Homme",
+                "prix": 500,
+                "couleur": "marron",
+                "img":"Edifice.webp"
+            },
+            {
+                "numb": 3,
+                "name": "classique ",
+                "description" : "Préparez-vous à remonter le temps tout en restant en phase avec le présent avec la montre pour homme Casio A168Wa-1. Ce classique absolu de la collection vintage de Casio allie sans effort un design intemporel à des fonctionnalités modernes, parfait pour l'homme moderne qui a le sens du style classique. Dotée d'un cadran noir saisissant et d'un bracelet argenté, cette montre est non seulement un garde-temps pratique, mais aussi une déclaration d'élégance et de sophistication. Le design métallique simple permet de l'assortir facilement à n'importe quelle tenue, qu'elle soit formelle, décontractée ou autre.",
+                "type": "Homme",
+                "prix": 100,
+                "couleur": "argent",
+                "img":"classique.webp"
+            },
+            {
+                "numb": 4,
+                "name": "résine noire ",
+                "description" : "Gardez le contrôle de vos tâches quotidiennes avec la montre Casio Digital Black Resin Band Black Dial W800H-1B. Dotée d'un bracelet en résine durable et d'un cadran noir élégant, cette montre offre un chronométrage fiable et est étanche jusqu'à 100 mètres. Parfaite pour un style de vie actif, suivez votre journée avec cette montre élégante et fonctionnelle.",
+                "type": "Homme",
+                "prix": 200,
+                "couleur": "noir",
+                "img":"résine noire.webp"
+            },
+            {
+                "numb": 5,
+                "name": "analogique ",
+                "description" : "Cette montre analogique Casio à cadran blanc et cuir marron offre un design classique et polyvalent. Avec un cadran blanc élégant et un bracelet en cuir marron élégant, cette montre est parfaite pour toutes les occasions. Son savoir-faire de haute qualité et son mouvement analogique précis en font un choix fiable et tendance pour un usage quotidien.",
+                "type": "Homme",
+                "prix": 200,
+                "couleur": "marron",
+                "img":"analogique.webp"
+            }
+        ]
     },
     {
         "id": 9,
@@ -87,7 +225,53 @@
         "creation": "15.10.2024",
         "etoiles": 5,
         "type": "Homme",
-        "produits":[]
+        "produits":[
+            {
+                "numb": 1,
+                "name": "MINIMALIST 15959/1",
+                "description" : "La montre Lotus 15959/1 pour homme est une pièce impressionnante avec son boîtier en acier et son verre minéral, ainsi qu'un bracelet en acier qui le rend durable et élégant. La marque Lotus est connue pour ses designs exclusifs et de dernière génération, parfaits pour ceux qui recherchent un style contemporain, urbain et moderne. Cette montre est une excellente option pour toute occasion, des réunions d'affaires aux événements sociaux.",
+                "type": "Homme",
+                "prix": 500,
+                "couleur": "argent",
+                "img":"MINIMALIST 15959/1.webp"
+            },
+            {
+                "numb": 2,
+                "name": "CHRONO 18680/2",
+                "description" : "La montre Lotus 18680/2 pour homme est une pièce impressionnante avec son boîtier en acier et son verre minéral, ainsi qu'un bracelet en acier résistant. La marque Lotus est fière d'offrir des designs exclusifs et de dernière génération pour un public contemporain, urbain et moderne. Cette montre est un parfait exemple de son engagement envers la qualité et le style. Ne manquez pas l'occasion de l'avoir dans votre collection !",
+                "type": "Homme",
+                "prix": 550,
+                "couleur": "bleu",
+                "img":"CHRONO 18680/2.webp"
+            },
+            {
+                "numb": 3,
+                "name": "MINIMALIST 18637/3",
+                "description" : "La montre Lotus 18637/3 pour homme est une pièce impressionnante avec son boîtier en acier et son verre minéral, ainsi qu'un bracelet en acier qui le rend durable et élégant. La marque Lotus est connue pour ses designs exclusifs et de dernière génération, parfaits pour ceux qui recherchent un style contemporain, urbain et moderne. Cette montre est une excellente option pour toute occasion et impressionnera sûrement tous ceux qui la verront.",
+                "type": "Homme",
+                "prix": 600,
+                "couleur": "argent",
+                "img":"MINIMALIST 18637/3.webp"
+            },
+            {
+                "numb": 4,
+                "name": "LOTUS 18854/3",
+                "description" : "La montre Lotus 18854/3 pour homme est une pièce impressionnante avec un boîtier en acier inoxydable 316l et un verre minéral, ainsi qu'un bracelet en acier inoxydable 316l. Les designs exclusifs des montres Lotus sont conçus pour un public contemporain, urbain et moderne à la recherche de la dernière technologie et de style. Avec cette montre, vous serez à la mode et toujours à l'heure.",
+                "type": "Homme",
+                "prix": 650,
+                "couleur": "argent",
+                "img":"LOTUS 18854/3.webp"
+            },
+            {
+                "numb": 5,
+                "name": "LOTUS 50018/1",
+                "description" : "Le bracelet de ce smartwatch est en acier inoxydable 316l de couleur noire, avec une largeur de 22,0 mm, ce qui le rend résistant et durable. Il est équipé d'une fermeture à pression, garantissant une fixation sûre et confortable. En ce qui concerne son mouvement, ce smartwatch est doté d'un type de Smart Watch portant le nom de Lot95, ce qui assure sa qualité et sa précision. Il utilise une pile de type S6-551830, offrant une longue durée de vie et une efficacité optimale.",
+                "type": "Homme",
+                "prix": 750,
+                "couleur": "noir",
+                "img":"LOTUS 50018/1.webp"
+            }
+        ]
     },
     {
         "id": 10,
@@ -97,7 +281,53 @@
         "creation": "21.10.2024",
         "etoiles": 2,
         "type": "Homme",
-        "produits":[]
+        "produits":[
+            {
+                "numb": 1,
+                "name": "cuir noir",
+                "description" : "Avec son boitier métallique brillant et ses finitions noires, son bracelet en cuir véritable, cette montre s’avère tout simplement une extension de votre personnalité. Sobre, efficace, performante et précise. Plus qu’une simple montre, c’est un bijou d’exception entièrement fabriqué par des artisans horlogers français qui ont à cœur des produits à la finition soignée et d’une très grande valeur qualitative. ",
+                "type": "Homme",
+                "prix": 200,
+                "couleur": "noir",
+                "img":"cuir noir.webp"
+            },
+            {
+                "numb": 2,
+                "name": "cuir camel",
+                "description" : "Quel que soit votre look, quel que soit votre style, cette magnifique tocante a tout d’une grande. Avec son cadran blanc et index assortis, cette montre est fabriquée en France, à Besançon. Choisir cette montre pour soi ou comme cadeau, c’est faire le choix de soutenir l’économie et l’artisanat français, de valoriser un savoir-faire ancestral reconnu dans le monde entier. Un travail minutieux et de haute précision a permis de proposer un modèle de telle qualité.",
+                "type": "Homme",
+                "prix": 250,
+                "couleur": "marron",
+                "img":"cuir camel.webp"
+            },
+            {
+                "numb": 3,
+                "name": "cuir rouge",
+                "description" : "Cette montre pour homme est fabriquée en France avec des matériaux de pointe. Le boîtier métal brillant finition noire offre une grande légèreté, tandis que le bracelet en cuir rouge est résistant et confortable. Le cadran noir de cette montre est moderne et facile à lire, avec des index plus clair pour une meilleure visibilité en toutes circonstances. Cette montre pour homme est le choix parfait pour ceux qui recherchent une montre française de qualité supérieure, alliant élégance et fonctionnalité. La combinaison du métal et du cuir en fait une montre à la fois légère et résistante, qui conviendra parfaitement à toutes les occasions.",
+                "type": "Homme",
+                "prix": 250,
+                "couleur": "rouge",
+                "img":"cuir rouge.webp"
+            },
+            {
+                "numb": 4,
+                "name": "cuir jeans",
+                "description" : "Grâce à son boitier métal brillant à la finition dorée rose, son bracelet en cuir véritable jeans, son cadran blanc et ses index assortis, la montre La Véritable souligne votre personnalité avec style et élégance.  Entièrement fabriquée en France (Besançon), elle est le fruit d’un travail d’orfèvrerie et d’un assemblage minutieux qui ne peut exalter les valeurs de l’artisanat à la française. Avec la montre La Véritable en cuir jaune véritable jeans, vous disposez d’un atout charme indéniable autour du poignet, un accessoire qualitatif indispensable.",
+                "type": "Homme",
+                "prix": 350,
+                "couleur": "bleu",
+                "img":"cuir jeans.webp"
+            },
+            {
+                "numb": 5,
+                "name": "cuir vert",
+                "description" : "La montre pour homme 'La Véritable' est une montre de qualité supérieure fabriquée en France. Elle possède un boîtier en acier inoxydable noir avec un bracelet en cuir vert. Le cadran est noir avec des aiguilles et index assortis. Cette montre dispose d'un mouvement à quartz fiable et précis. Elle est également étanche jusqu'à 30 mètres, ce qui signifie qu'elle peut être portée en toute sécurité sous la douche ou en nageant. Cette montre pour homme est un choix élégant et pratique pour tous les jours.  ",
+                "type": "Homme",
+                "prix": 300,
+                "couleur": "vert",
+                "img":"cuir vert.webp"
+            }
+        ]
     },
     {
         "id": 11,
@@ -107,7 +337,53 @@
         "creation": "21.10.2024",
         "etoiles": 2,
         "type": "Homme",
-        "produits":[]
+        "produits":[
+            {
+                "numb": 1,
+                "name": "Louis",
+                "description" : "Alliant confort et esthétisme ce garde-temps saura vous séduire. Un verre saphir décore votre cadran mais surtout apporte une protection supplémentaire contre les choc et l'usure. Il est habité par un concept mono-aiguille de 12h, coutume de cette collection. Afin de régler en toute tranquillité votre montre, vous disposerez d'une couronne remontoir à 4h. Son fond de boîtier vissé vous assurera une étanchéité de 3 ATM, soit 30 mètres de profondeur",
+                "type": "Homme",
+                "prix": 200,
+                "couleur": "marron",
+                "img":"Louis.webp"
+            },
+            {
+                "numb": 2,
+                "name": "Antoine",
+                "description" : "Ce garde-temps saura plaire aux femmes, comme aux hommes. Il mesure 40 mm de diamètre pour une épaisseur de 8 mm. Il est conçu d'acier inoxydable avec une finition PVD noir mat qui donne de l'allure à la montre. Une couronne remontoir est située au niveau de l'index des 20 heures (traditionnellement 4 heures). Elle permettra de régler la mono-aiguille présente au centre du cadran. Cette montre est surmontée par un verre minéral qui vous protégera contre les chocs et les rayures. Son fond de boîte emboîté vous garantira une étanchéité de 3 atmosphères.",
+                "type": "Homme",
+                "prix": 300,
+                "couleur": "marron",
+                "img":"Antoine.webp"
+            },
+            {
+                "numb": 3,
+                "name": "Phase de Lune",
+                "description" : ". La marque souhaite éliminer votre obsession pour le temps qui coule, comme le témoigne la seule aiguille présente au centre du cadran. L'aiguille s'accompagne d'un index des heures avec des chiffres arabes, pour que vous ayez plus de repères temporels. Le tour du cadran, est recouvert d'une couleur or rose, qui donne un côté très tendance. La marque vient signer sa création en dessous de l'index des douze heures.",
+                "type": "Homme",
+                "prix": 200,
+                "couleur": "orange",
+                "img":"Phase de Lune.webp"
+            },
+            {
+                "numb": 4,
+                "name": "Jules",
+                "description" : "Son boîtier argenté est conçu en acier inoxydable 316l et affiche une allure très sophistiqué qui lui confère plus de légèreté et de finesse. Il mesure 40 mm de diamètre pour une épaisseur de 14,80 mm. Son cadran est protégé par un verre saphir bombé inrayable connu pour sa résistance aux chocs et aux éraflures du quotidien. Deux couronnes crantées de couleur argentée se positionnent à 2 et 4 heures. Elles permettent le réglage des fonctions de la montre. Pour finir, c'est un fond de boîte vissé et transparent qui laisse entrevoir les rouages du mouvement en assurant à la montre une étanchéité de 20 ATM.",
+                "type": "Homme",
+                "prix": 400,
+                "couleur": "bleu",
+                "img":"Jules.webp"
+            },
+            {
+                "numb": 5,
+                "name": "Georges",
+                "description" : " Elle rend hommage à l'illusionniste Georges Méliès. Il a réalisé en 1902 'le voyage dans la lune'. Cette collection vous propose des modèles unique, qui vous feront voyager dans l'espace avec leur finition phase de lune. Ici, le modèle est doté d'un boîtier gris de forme ronde en acier inoxydable, de 40 millimètres de diamètre. Epuré et élégant, il saura ravir aussi bien les femmes que les hommes. Afin de protéger l'intégrité du cadran, un verre saphir vient le surplomber. Il protégera votre montre des éventuels chocs et rayures qu'elle pourrait subir. Par ailleurs, une couronne remontoir prend place à quatre heures. Elle vous permettra de régler l'aiguille facilement. Enfin, ce modèle possède un fond de boîte emboîté qui vous assurera une étanchéité de 5 ATM. Ne vous affolez plus en gardant la montre sous la douche.",
+                "type": "Homme",
+                "prix": 200,
+                "couleur": "marron",
+                "img":"Georges.webp"
+            }
+        ]
     },
     {
         "id": 12,
