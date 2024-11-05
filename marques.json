@@ -17,7 +17,53 @@
         "creation": "15.10.2024",
         "etoiles": 4,
         "type": "Homme",
-        "produits":[]
+        "produits":[
+            {
+                "numb": 1,
+                "name": "Sfida",
+                "description" : "Présentation de la montre Maserati Sfida 44 mm en or bleu . La collection Maserati Sfida se compose de montres à l'élégance sportive, caractérisées par un design structuré, un boîtier en acier (44 mm) avec lunette tournante ou tachymétrique, finition moletée sur un côté. Les cadrans à effet soleil ou dégradés modernes offrent élégance et rigueur, caractéristiques distinctives de la maison Maserati. Les nouveaux modèles de la collection Sfida s'appuient sur les valeurs et l'héritage sportif de Maserati. ",
+                "type": "Homme",
+                "prix": 2000,
+                "couleur": "noir",
+                "img":"Sfida.webp"
+            },
+            {
+                "numb": 2,
+                "name": "Leather",
+                "description" : "Les montres de la collection Traguardo se caractérisent par des matériaux et des finitions uniques et raffinés, capables d'attirer l'attention des connaisseurs au premier coup d'œil. Étanches, aux finitions soignées et réalisées à la perfection, ces montres sont un classique intemporel.",
+                "type": "Homme",
+                "prix": 1500,
+                "couleur": "marron",
+                "img":"Leather.webp"
+            },
+            {
+                "numb": 3,
+                "name": "Potenza",
+                "description" : "Les montres de la collection Potenza présentent un design innovant, caractérisé par des lignes épurées qui interprètent de manière extrêmement moderne les traits stylistiques de la tradition Maserati. Le grand logo Trident au centre du cadran se combine aux formes de la lunette, conférant au boîtier un aspect dynamique.",
+                "type": "Homme",
+                "prix": 2000,
+                "couleur": "marron",
+                "img":"Potenza.webp"
+            },
+            {
+                "numb": 4,
+                "name": "Epoca",
+                "description" : "Les montres de la collection Epoca s'inspirent du design de la Maserati 3500 GT de 1957, symbole de style et d'excellence mécanique. L'âme vintage de cette collection se retrouve également dans d'autres détails : du logo Trident dans sa toute première version utilisée sur un véhicule Maserati - la Tipo 26 de 1926 - à la forme arrondie du cadran qui caractérisait les montres mécaniques des années 40 et 50.",
+                "type": "Homme",
+                "prix": 1000,
+                "couleur": "bleu",
+                "img":"Epoca.webp"
+            },
+            {
+                "numb": 5,
+                "name": "Traguardo",
+                "description" : "Les montres de la collection Traguardo se caractérisent par des matériaux et des finitions uniques et raffinés, capables d'attirer l'attention des connaisseurs au premier coup d'œil. Étanches, aux finitions soignées et réalisées à la perfection, ces montres sont des classiques intemporels.",
+                "type": "Homme",
+                "prix": 800,
+                "couleur": "marron",
+                "img":"Traguardo.webp"
+            }
+        ]
     },
     {
         "id": 3,
@@ -27,7 +73,53 @@
         "creation": "15.10.2024",
         "etoiles": 4,
         "type": "Homme",
-        "produits":[]
+        "produits":[
+            {
+                "numb": 1,
+                "name": "chronograph",
+                "description" : "Montre chronographe raffinée BOSS, avec cadran noir à effet soleil et anneaux taille diamant. Cet accessoire est doté d'un bracelet multimaillons intégré. Mécanisme de montre : Chronographe Couleur du cadran : Noir Matériau du bracelet : Acier inoxydable Fermeture : Déploiement par bouton-poussoir Taille du boîtier : 42 mm Étanchéité (en ATM) : 5 ATM",
+                "type": "Homme",
+                "prix": 800,
+                "couleur": "noir",
+                "img":"chronograph.webp"
+            },
+            {
+                "numb": 2,
+                "name": "stainless-steel",
+                "description" : "Avec son acier tendance et son cadran texturé distinctif, cette montre BOSS Menswear ajoute une touche de luxe discrète à n'importe quel look. Bracelet à maillons en H pour un ajustement personnalisé",
+                "type": "Homme",
+                "prix": 700,
+                "couleur": "argent",
+                "img":"stainless-steel.webp"
+            },
+            {
+                "numb": 3,
+                "name": "Leather-strap",
+                "description" : "Avec son design architectural, cette montre BOSS Menswear en acier cool ajoutera une élégance contemporaine à n'importe quelle tenue. Subyeux multifonctionnels. Bracelet en cuir noir intégré.",
+                "type": "Homme",
+                "prix": 750,
+                "couleur": "noir",
+                "img":"Leather-strap.webp"
+            },
+            {
+                "numb": 4,
+                "name": "grooved dial",
+                "description" : "Combinant des tons or et argent avec un cadran texturé vert, cette montre BOSS Menswear offre un look luxueux au quotidien. Bracelet à maillons en H pour un ajustement personnalisé.",
+                "type": "Homme",
+                "prix": 750,
+                "couleur": "argent",
+                "img":"grooved dial.webp"
+            },
+            {
+                "numb": 5,
+                "name": "Silicone",
+                "description" : "Une montre distinctive signée BOSS, dotée d'un cadran guilloché couleur olive et d'index remplis de lumière. Cet accessoire se fixe à l'aide d'un bracelet en silicone noir siglé.",
+                "type": "Homme",
+                "prix": 750,
+                "couleur": "argent",
+                "img":"Silicone.webp"
+            }
+        ]
     },
     {
         "id": 4,
