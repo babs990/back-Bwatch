@@ -37,7 +37,53 @@
         "creation": "15.10.2024",
         "etoiles": 4,
         "type": "Homme",
-        "produits":[]
+        "produits":[
+            {
+                "numb": 1,
+                "name": "Code One",
+                "description" : "Cette montre Code One Chrono adidas allie élégance sportive et fonctionnalité technique. Ce modèle à la silhouette ronde intemporelle est rehaussé d'un chronographe à six aiguilles, d'un cadran 24 h et d'un guichet de date. Le bracelet en silicone assure un ajustement parfait.",
+                "type": "Homme",
+                "prix": 400,
+                "couleur": "bleu",
+                "img":"Code One.webp"
+            },
+            {
+                "numb": 2,
+                "name": "Project 3",
+                "description" : "Fun et conçue dans le respect de l'environnement, la montre adidas Project Three apporte une touche colorée à ton style. Le boîtier en céramique écologique avec bracelet en bio-résine en fait l'accessoire tendance parfait pour compléter ta tenue. En plus, elle affiche des coloris de saison.",
+                "type": "Homme",
+                "prix": 400,
+                "couleur": "bleu",
+                "img":"Project 3.webp"
+            },
+            {
+                "numb": 3,
+                "name": "Project One",
+                "description" : "Cette montre éco-responsable te rappelle que tu peux faire le bien avec style. Le design élégant de cette montre adidas Project One est conçu en acier inoxydable recyclé et en cuir vegan. Et aucune batterie n'est nécessaire, parce que cette montre est alimentée par la lumière du soleil.",
+                "type": "Homme",
+                "prix": 400,
+                "couleur": "noir",
+                "img":"Project One.webp"
+            },
+            {
+                "numb": 4,
+                "name": "Expression One",
+                "description" : "La montre adidas Expression One affiche un design puissant qui représente parfaitement l'esprit adidas Originals. Cette montre premium avec son anneau en verre sur le dessus et sa couleur élégante est conçue pour tous ceux qui veulent utiliser leur montre comme un moyen d'expression de soi. Le bracelet en nylon offre un confort ultime.",
+                "type": "Homme",
+                "prix": 400,
+                "couleur": "vert",
+                "img":"Expression One.webp"
+            },
+            {
+                "numb": 5,
+                "name": "Project Two",
+                "description" : "La combinaison parfaite entre design classique, look streetwear et confort au quotidien. Cette montre Project 2 affiche fièrement l'iconique palette Adicolor et des graphismes adidas Originals originaux.",
+                "type": "Homme",
+                "prix": 400,
+                "couleur": "noir",
+                "img":"Project Two.webp"
+            }
+        ]
     },
     {
         "id": 5,
@@ -47,7 +93,53 @@
         "creation": "15.10.2024",
         "etoiles": 5,
         "type": "Homme",
-        "produits":[]
+        "produits":[
+            {
+                "numb": 1,
+                "name": "Ollie Watch",
+                "description" : "Taille du boîtier : 44 mm Couleur du boîtier : noir Résistant à l'eau : 30 M. Garantie de 2 ans",
+                "type": "Homme",
+                "prix": 200,
+                "couleur": "noir",
+                "img":"Ollie Watch.webp"
+            },
+            {
+                "numb": 2,
+                "name": "Automatique Watch",
+                "description" : "Taille du boîtier : 44 mm Couleur du boîtier : bleu Résistant à l'eau : 30 M. Garantie de 2 ans",
+                "type": "Homme",
+                "prix": 300,
+                "couleur": "bleu",
+                "img":"Automatique Watch.webp"
+            },
+            {
+                "numb": 3,
+                "name": "Highkey Watch",
+                "description" : "Taille du boîtier : 40 mm Couleur du boîtier : noir Résistant à l'eau : 30 M. Garantie de 2 ans",
+                "type": "Homme",
+                "prix": 400,
+                "couleur": "blanc",
+                "img":"Highkey Watch.webp"
+            },
+            {
+                "numb": 4,
+                "name": "Boston Watch ",
+                "description" : "Taille du boîtier : 42 mm Couleur du boîtier : bleu Résistant à l'eau : 30 M. Garantie de 2 ans",
+                "type": "Homme",
+                "prix": 200,
+                "couleur": "jaune",
+                "img":"Boston Watch.webp"
+            },
+            {
+                "numb": 5,
+                "name": "Hero Watch ",
+                "description" : "Taille du boîtier : 42 mm Couleur du boîtier : vert Résistant à l'eau : 30 M. Garantie de 2 ans",
+                "type": "Homme",
+                "prix": 200,
+                "couleur": "vert",
+                "img":"Hero Watch.webp"
+            }
+        ]
     },
     {
         "id": 6,
