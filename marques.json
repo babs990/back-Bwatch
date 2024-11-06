@@ -7,7 +7,27 @@
         "creation": "15.10.2024",
         "etoiles": 5,
         "type": "Homme",
-        "produits":[]
+        "produits":[
+            {
+                "numb": 1,
+                "name": " Black Magic",
+                "description" : "Amateur de montres de la maison Hublot, vous allez être conquis par cette Classic Fusion Black Magic ! Présentée dans une version de 45 mm de diamètre, cette montre Hublot Classic Fusion en céramique noire se porte sur un solide bracelet en caoutchouc noir ligné, vous apportant confort et souplesse au quotidien.",
+                "type": "Homme",
+                "prix": 1000,
+                "couleur": "noir",
+                "img":" Black Magic.webp"
+            },
+            {
+                "numb": 2,
+                "name": "Fusion Orlinski",
+                "description" : "La Maison Hublot s'associe avec le célèbre artiste Richard Olinski et nous présente ce modèle Classic Fusion à son éffigie. Vous apprécierez le cadran texturé à l'image du créateur et le bracelet titane pavé de diamants.",
+                "type": "Homme",
+                "prix": 1000,
+                "couleur": "noir",
+                "img":"Fusion Orlinski.webp"
+            }
+
+        ]
     },
     {
         "id": 2,
