@@ -13,7 +13,7 @@
                 "name": " Black Magic",
                 "description" : "Amateur de montres de la maison Hublot, vous allez être conquis par cette Classic Fusion Black Magic ! Présentée dans une version de 45 mm de diamètre, cette montre Hublot Classic Fusion en céramique noire se porte sur un solide bracelet en caoutchouc noir ligné, vous apportant confort et souplesse au quotidien.",
                 "type": "Homme",
-                "prix": 1000,
+                "prix": 1500,
                 "couleur": "noir",
                 "img":" Black Magic.webp"
             },
@@ -22,11 +22,37 @@
                 "name": "Fusion Orlinski",
                 "description" : "La Maison Hublot s'associe avec le célèbre artiste Richard Olinski et nous présente ce modèle Classic Fusion à son éffigie. Vous apprécierez le cadran texturé à l'image du créateur et le bracelet titane pavé de diamants.",
                 "type": "Homme",
+                "prix": 500,
+                "couleur": "argent",
+                "img":"Fusion Orlinski.webp"
+            },
+            {
+                "numb": 3,
+                "name": "Big Bang",
+                "description" : "cette montre est la parfaite synthèse de l'ADN Hublot : base de l'emblématique Big Bang et mouvement Unico maison. Le mouvement UNICO a été entièrement conçu, développé, usiné et assemblé par les horlogers Hublot ",
+                "type": "Homme",
                 "prix": 1000,
                 "couleur": "noir",
-                "img":"Fusion Orlinski.webp"
+                "img":"Big Bang.webp"
+            },
+            {
+                "numb": 4,
+                "name": "Spirit",
+                "description" : "Cette montre Hublot Spirit of Big Bang Meca-10 King Gold s'habille d'une sublime couleur d'or imaginée et développée par la Maison Horlogère Hublot !",
+                "type": "Homme",
+                "prix": 1200,
+                "couleur": "noir",
+                "img":"Spirit.webp"
+            },
+            {
+                "numb": 5,
+                "name": "UEFA",
+                "description" : "Les fans de football seront ravis de porter cette nouvelle Big Bang e à leur poignet … Cette Hublot est une édition limitée pour la Champions League !",
+                "type": "Homme",
+                "prix": 1000,
+                "couleur": "noir",
+                "img":"UEFA.webp"
             }
-
         ]
     },
     {
