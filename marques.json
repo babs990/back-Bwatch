@@ -65,7 +65,7 @@
         "type": "Homme",
         "produits":[
             {
-                "numb": 1,
+                "numb": 6,
                 "name": "Sfida",
                 "description" : "Présentation de la montre Maserati Sfida 44 mm en or bleu . La collection Maserati Sfida se compose de montres à l'élégance sportive, caractérisées par un design structuré, un boîtier en acier (44 mm) avec lunette tournante ou tachymétrique, finition moletée sur un côté. Les cadrans à effet soleil ou dégradés modernes offrent élégance et rigueur, caractéristiques distinctives de la maison Maserati. Les nouveaux modèles de la collection Sfida s'appuient sur les valeurs et l'héritage sportif de Maserati. ",
                 "type": "Homme",
@@ -74,7 +74,7 @@
                 "img":"maserati/Sfida.webp"
             },
             {
-                "numb": 2,
+                "numb": 7,
                 "name": "Leather",
                 "description" : "Les montres de la collection Traguardo se caractérisent par des matériaux et des finitions uniques et raffinés, capables d'attirer l'attention des connaisseurs au premier coup d'œil. Étanches, aux finitions soignées et réalisées à la perfection, ces montres sont un classique intemporel.",
                 "type": "Homme",
@@ -83,7 +83,7 @@
                 "img":"maserati/Leather.webp"
             },
             {
-                "numb": 3,
+                "numb": 8,
                 "name": "Potenza",
                 "description" : "Les montres de la collection Potenza présentent un design innovant, caractérisé par des lignes épurées qui interprètent de manière extrêmement moderne les traits stylistiques de la tradition Maserati. Le grand logo Trident au centre du cadran se combine aux formes de la lunette, conférant au boîtier un aspect dynamique.",
                 "type": "Homme",
@@ -92,7 +92,7 @@
                 "img":"maserati/Potenza.webp"
             },
             {
-                "numb": 4,
+                "numb": 9,
                 "name": "Epoca",
                 "description" : "Les montres de la collection Epoca s'inspirent du design de la Maserati 3500 GT de 1957, symbole de style et d'excellence mécanique. L'âme vintage de cette collection se retrouve également dans d'autres détails : du logo Trident dans sa toute première version utilisée sur un véhicule Maserati - la Tipo 26 de 1926 - à la forme arrondie du cadran qui caractérisait les montres mécaniques des années 40 et 50.",
                 "type": "Homme",
@@ -101,7 +101,7 @@
                 "img":"maserati/Epoca.webp"
             },
             {
-                "numb": 5,
+                "numb": 10,
                 "name": "Traguardo",
                 "description" : "Les montres de la collection Traguardo se caractérisent par des matériaux et des finitions uniques et raffinés, capables d'attirer l'attention des connaisseurs au premier coup d'œil. Étanches, aux finitions soignées et réalisées à la perfection, ces montres sont des classiques intemporels.",
                 "type": "Homme",
