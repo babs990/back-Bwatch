@@ -963,48 +963,48 @@
         "produits":[
             {
                 "numb": 1,
-                "name": "VERSACE DAPHNIS DORÉE",
+                "name": "DAPHNIS DORÉE",
                 "description" : "Élevez votre style avec cette superbe montre à quartz Daphnis V16060017 pour femme Versace. Fabriquée en acier inoxydable et en cristal de haute qualité, cette montre est dotée d'un boîtier rond de 35 mm avec une boucle déployante à double verrouillage et d'un bracelet avec une boucle déployante. La montre est étanche jusqu'à 30 m et dispose d'un cadran 12 heures avec chiffres romains et index ronds, d'un indicateur de date et d'un verre saphir résistant aux rayures. La palette de couleurs polyvalente argent, or et blanc rend cette montre parfaite pour toutes les occasions, tandis que le mouvement à quartz de fabrication suisse assure un chronométrage précis. Cette montre-bracelet est conçue pour un usage féminin et s'adapte aux poignets jusqu'à 7,5 pouces de diamètre. Avec un fond fermé et un design élégant, cette montre Versace Daphnis est un incontournable pour toute personne soucieuse de la mode.",
                 "type": "Femme",
                 "prix": 600,
                 "couleur": "doré",
-                "img":"versace/VERSACE DAPHNIS DORÉE.webp"
+                "img":"versace/DAPHNIS DORÉE.webp"
             },
             {
                 "numb": 2,
-                "name": "VERSACE MEDUSA FRAME",
+                "name": "MEDUSA FRAME",
                 "description" : " Avec une lunette fixe en or et un boîtier rond en acier inoxydable poli, cette montre respire la sophistication classique. Le motif guilloché du cadran et la couleur beige du cadran ajoutent une touche d'élégance, tandis que le bracelet en cuir d'une seule pièce assure à la fois confort et style. Cette montre à quartz de fabrication suisse est étanche jusqu'à 50 mètres et est livrée avec une garantie fabricant de 2 ans, une boîte/emballage d'origine et un manuel/livret. Le modèle Versace Medusa est une pièce intemporelle qui ne se démodera jamais, ce qui en fait un choix parfait pour toute occasion.",
                 "type": "Femme",
                 "prix": 400,
                 "couleur": "beige",
-                "img":"versace/VERSACE MEDUSA FRAME.webp"
+                "img":"versace/MEDUSA FRAME.webp"
             },
             {
                 "numb": 3,
-                "name": "VERSACE GRECA ICON BRONZE",
+                "name": "GRECA ICON BRONZE",
                 "description" : " GRECA ICÔNE 2H D/BRZ B/BRZ IP 39X21MM BRACELET EN BRONZE IP ; Sexe : Dame ; Collection : ICÔNE GRECA ; Mouvement : 2 aiguilles à quartz ; Résistance à l'eau : 30 mètres ; Taille : 39 x 21 mm ; Couleur du boîtier : ton bronze ; Matériau du boîtier : SS/IP BRONZE ; Couleur du cadran : ton bronze ; Couleur du bracelet : Bracelet ; Matériau du bracelet : acier plaqué ionique, bronze ; Type de boucle : papillon ;",
                 "type": "Femme",
                 "prix": 200,
                 "couleur": "doré",
-                "img":"versace/VERSACE GRECA ICON BRONZE.webp"
+                "img":"versace/GRECA ICON BRONZE.webp"
             },
             {
                 "numb": 4,
-                "name": "Versace VE7B00623",
+                "name": "VE7B00623",
                 "description" : " Montre Versace - VE7B00623 en Doré Acier inoxydable - Diamètre du boîtier: 38 mm -Épaisseur du boîtier: 12 mm Couleur du boîtier: Doré Couleur du cadran:Noir - Bracelet de Haute qualité en Acier inoxydable Doré - longueur du bracelet:19 cm-largeur du bracelet: 18 mm-Fermoir: Boucle déployante - Résistant à l'eau: 5 bar -Poids:130",
                 "type": "Femme",
                 "prix": 600,
                 "couleur": "doré",
-                "img":"versace/Versace VE7B00623.webp"
+                "img":"versace/VE7B00623.webp"
             },
             {
                 "numb": 5,
-                "name": "Versace Greca VEVC01021",
+                "name": "Greca VEVC01021",
                 "description" : " Montre bracelet Versace Greca VEVC01021 pour Femme à Quartz, avec une boîtier de Acier inoxydable dun diamètre de 38 mm, avec un cadran Vert et avec un bracelet de Acier inoxydable en couleur Deux tons.",
                 "type": "Femme",
                 "prix": 500,
                 "couleur": "Deux tons",
-                "img":"versace/Versace Greca VEVC01021.webp"
+                "img":"versace/Greca VEVC01021.webp"
             }
         ]
     },
